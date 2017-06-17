@@ -25,7 +25,7 @@ SECRET_KEY = 'dwvmi+cwy0n=t6jft6(px34@qfs3q1*&y9e*0y2uqr%opbtf3q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS =['127.0.0.1', 'evelyn.pythonanywhere.com']
+ALLOWED_HOSTS =['127.0.0.1', 'evelynmantoiu.pythonanywhere.com']
 
 
 # Application definition
